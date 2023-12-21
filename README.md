@@ -1,4 +1,4 @@
-# MLTT
+# MLTT assignment 1
 from sklearn.datasets import fetch_california_housing
 from sklearn.model_selection import train_test_split, RandomizedSearchCV
 from sklearn.ensemble import RandomForestRegressor
